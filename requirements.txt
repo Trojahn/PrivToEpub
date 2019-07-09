@@ -1,0 +1,6 @@
+ebooklib
+requests
+beautifulsoup4
+html5lib
+pybase64
+zlib
